@@ -14,8 +14,8 @@ export default function ArtGallery() {
   const titles = [
     "Shiro Money",
     "Monashiro",
-    "Shiro EVA",
-    "The Shiro Genesis",
+    "The Tabi Angel",
+    "Shiro Kaws",
     "Shiro in the Temple",
     "Shiros Abduction",
     "Twins in the Sky",
@@ -37,8 +37,8 @@ export default function ArtGallery() {
   const images = [
     "/shirom.png",
     "/shironci.png",
-    "/shiroeva.png",
-    "/shirosky.png",
+    "/tabiangel.png",
+    "/myshiro.png",
     "/shirotemple.png",
     "/shiroufos.png",
     "/twins.png",
@@ -57,10 +57,10 @@ export default function ArtGallery() {
       "Dressed in a detailed space suit, this version of Shiro looks ready for an interstellar mission. The sketch-style artwork mimics engineering blueprints, mixing science fiction with artistic whimsy.",
     ],
     [
-      "Inspired by Michelangelo’s “The Creation of Adam,” this artwork shows two Shiro figures reaching out to each other, capturing a divine moment with exaggerated cartoon style and a golden biblical ambiance.",
+      "A celestial Tabi angel stands centered in the frame, sculpted in hyperrealistic weathered marble with veins of ethereal blue light running through its cracked surface. Bathed in dramatic chiaroscuro lighting, the figure glows subtly with a divine golden aura while deep violet shadows add a mysterious, almost sacred atmosphere. The angel’s wings are outstretched mid-transcendence, and its expression is one of awakening power. Light shafts and mist filter through the cracked fresco walls of a grand cathedral, giving the entire composition a holy yet darkly epic tone — both ancient and otherworldly.",
     ],
     [
-      "Shiro is depicted as a deity or noble figure being worshipped in an ancient temple scene. With a humble expression and hands pressed together, he stands among miniature humans, exuding quiet power.",
+      "A highly detailed anatomical designer figure of Shiro stands at the center of a pristine white museum backdrop. Rendered with museum-grade precision, the outer body is sculpted in smooth matte vinyl, faithfully preserving Shiro's original skin tone, hair style, and clothing colors from the reference image. The left side of the figure is cut away to reveal vibrant, semi-gloss internal anatomy — from the pink brain to red organs and beige stomach — contrasting beautifully with the soft-touch exterior.",
     ],
     [
       "In a classic black-and-white sci-fi style, this scene shows Shiro being abducted by a UFO, with light beams and floating furniture. It’s a dramatic, humorous take on alien encounters.",
