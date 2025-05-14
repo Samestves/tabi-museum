@@ -54,13 +54,13 @@ export default function ArtGallery() {
       "A playful reinterpretation of the Mona Lisa featuring a quirky Shiro figure, lying on its stomach with a serene yet mischievous look. This parody blends classical art with cartoonish charm.",
     ],
     [
-      "Dressed in a detailed space suit, this version of Shiro looks ready for an interstellar mission. The sketch-style artwork mimics engineering blueprints, mixing science fiction with artistic whimsy.",
-    ],
-    [
       "A celestial Tabi angel stands centered in the frame, sculpted in hyperrealistic weathered marble with veins of ethereal blue light running through its cracked surface. Bathed in dramatic chiaroscuro lighting, the figure glows subtly with a divine golden aura while deep violet shadows add a mysterious, almost sacred atmosphere. The angel’s wings are outstretched mid-transcendence, and its expression is one of awakening power. Light shafts and mist filter through the cracked fresco walls of a grand cathedral, giving the entire composition a holy yet darkly epic tone — both ancient and otherworldly.",
     ],
     [
       "A highly detailed anatomical designer figure of Shiro stands at the center of a pristine white museum backdrop. Rendered with museum-grade precision, the outer body is sculpted in smooth matte vinyl, faithfully preserving Shiro's original skin tone, hair style, and clothing colors from the reference image. The left side of the figure is cut away to reveal vibrant, semi-gloss internal anatomy — from the pink brain to red organs and beige stomach — contrasting beautifully with the soft-touch exterior.",
+    ],
+    [
+      "Shiro is depicted as a deity or noble figure being worshipped in an ancient temple scene. With a humble expression and hands pressed together, he stands among miniature humans, exuding quiet power.",
     ],
     [
       "In a classic black-and-white sci-fi style, this scene shows Shiro being abducted by a UFO, with light beams and floating furniture. It’s a dramatic, humorous take on alien encounters.",
